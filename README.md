@@ -6,6 +6,6 @@
 
 ## Projeto(s) de código fechado
 
-Sweeper website e Sweeper-1 Bot (Bot para Discord)
+Sweeper website e Sweeper-1 (Bot para Discord)
 
-[![Sweeper Bot Logo](/sweeper-bot-logo.png)](http://sweeperbot.site)
+[![Sweeper Bot Logo](/sweeper-bot-logo.png)](https://sweeperbot.site)
