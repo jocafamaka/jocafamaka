@@ -4,8 +4,8 @@
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jocafamaka&layout=compact&locale=pt-br&theme=monokai)
 
-## Projeto(s) de código fechado
+## Outros(s) Projeto(s)
 
-Sweeper website e Sweeper-1 (Bot para Discord)
+Açaí website e Açaí Bot (Discord)
 
-[![Sweeper Bot Logo](/sweeper-bot-logo.png)](https://sweeperbot.site)
+[![Açaí Bot Logo](/acai-bot-logo.png)](https://acaibot.site)
