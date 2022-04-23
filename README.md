@@ -8,4 +8,4 @@
 
 Açaí website e Açaí Bot (Discord)
 
-[![Açaí Bot Logo](/acai-bot-logo.png)](https://acaibot.site)
+[![Açaí Bot Logo](/acai-bot-logo-verificado.png)](https://acaibot.site)
